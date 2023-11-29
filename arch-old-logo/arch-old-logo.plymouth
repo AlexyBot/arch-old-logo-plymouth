@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Arch Aqua Logo
+Name=Arch Old Logo
 Description=A theme that features a blank background with a logo.
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/arch-aqua-logo
-ScriptFile=/usr/share/plymouth/themes/arch-aqua-logo/arch-aqua-logo.script
+ImageDir=/usr/share/plymouth/themes/arch-old-logo
+ScriptFile=/usr/share/plymouth/themes/arch-old-logo/arch-old-logo.script
